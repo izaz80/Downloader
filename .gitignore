@@ -1,0 +1,15 @@
+# Ignore cookie files
+*.txt
+*.text
+# Ignore local downloads if they happen in the folder
+*.mp4 
+*.mkv 
+*.webm 
+*.mp3 
+*.m4a 
+*.opus 
+*.aac 
+*.jpg 
+*.webp 
+*.png 
+*.jpeg
